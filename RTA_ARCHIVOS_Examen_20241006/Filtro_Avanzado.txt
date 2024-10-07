@@ -1,0 +1,4 @@
+Mi IP Publica es: 190.210.32.170
+Mi usuario es: osboxes
+El Hash de mi Usuario es: ffc30dc83f769871f39f08d9b47a16d7bbb2453c9165ca599041ec955e7c56df  -
+La URL de mi repositorio es: https://github.com/Santicavaliere/UTNFRA_SO_1P2C_2024_Cavaliere.git
